@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Abdelhaq 👋
 
-<!--
-**ibourqabdelhaq-png/ibourqabdelhaq-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Student | Intermediate Level
 
-Here are some ideas to get you started:
+**🚀 About Me:**
+I'm passionate about Artificial Intelligence and Data. I love learning new technologies and building with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Tech Stack:**
+- Python, Pandas, NumPy
+- OpenCV, Matplotlib
+- Data Analysis & Visualization
+- Machine Learning Fundamentals
+- Git & GitHub
+- And more to come...
+
+**📚 Currently Learning:**
+- More about AI & Deep Learning
+- Data Science techniques
+- Computer Vision & other tech...
+
+**🌍 Languages:**
+- Arabic: Native
+- English: Intermediate
+- French: Beginner
+
+---
+*Always curious, always learning* ✨
+
